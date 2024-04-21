@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Ej17_Boligrafo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194BF427-A0E1-45DA-B573-7E6698804695}|Ej17_Boligrafo\\Ej17_Boligrafo.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\ej17_boligrafo\\ej17_boligrafo\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194BF427-A0E1-45DA-B573-7E6698804695}|Ej17_Boligrafo\\Ej17_Boligrafo.csproj|solutionrelative:ej17_boligrafo\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194BF427-A0E1-45DA-B573-7E6698804695}|Ej17_Boligrafo\\Ej17_Boligrafo.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\ej17_boligrafo\\ej17_boligrafo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194BF427-A0E1-45DA-B573-7E6698804695}|Ej17_Boligrafo\\Ej17_Boligrafo.csproj|solutionrelative:ej17_boligrafo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Ej17_Boligrafo\\Ej17_Boligrafo\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "Ej17_Boligrafo\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Ej17_Boligrafo\\Ej17_Boligrafo\\Boligrafo.cs",
+              "RelativeToolTip": "Ej17_Boligrafo\\Boligrafo.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:51:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Ej17_Boligrafo\\Ej17_Boligrafo\\Program.cs",
+              "RelativeDocumentMoniker": "Ej17_Boligrafo\\Program.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Ej17_Boligrafo\\Ej17_Boligrafo\\Program.cs",
+              "RelativeToolTip": "Ej17_Boligrafo\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:50:49.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

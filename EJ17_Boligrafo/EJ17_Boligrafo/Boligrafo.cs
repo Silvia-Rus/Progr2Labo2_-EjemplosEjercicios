@@ -23,19 +23,10 @@ namespace Boligrafo
         {
             return this.color;
         }
-
+        
         public short getTinta()
         {
-            return this.tinta;
-        }
-
-        public short Tinta
-        {
-            get => this.tinta;
-            set
-            {
-
-            }
+            return this.tinta;  
         }
 
         public bool Pintar(short gasto, out string dibujo)
@@ -49,7 +40,7 @@ namespace Boligrafo
                     dibujo += "*";
                     this.setTinta(-1);
                     Console.ForegroundColor = this.getColor();
-                    retorno = true;
+                    retorno =  true;
                 }
                 else
                 {
@@ -72,7 +63,7 @@ namespace Boligrafo
         {
             int validador = this.tinta + tinta;
 
-            if (validador < cantidadTintaMaxima && validador > -1) //E1: La operación no sale de rango ni por arriba ni por abajo
+            if(validador < cantidadTintaMaxima && validador > -1) //E1: La operación no sale de rango ni por arriba ni por abajo
             {
                 this.tinta += tinta;
             }
@@ -84,6 +75,17 @@ namespace Boligrafo
             {
                 this.tinta = 0;
             }
+        }
+
+        //SET TINTA POR PROGRESO
+        private void setTinta2(short tinta)
+        {
+
+            while(this.tinta > 0 && this.tinta < cantidadTintaMaxima)
+            {
+                this.tinta += tinta;
+            }
+
         }
 
 

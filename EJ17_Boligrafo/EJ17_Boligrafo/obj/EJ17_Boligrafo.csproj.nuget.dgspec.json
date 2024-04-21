@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj": {}
+    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej17_Boligrafo/Ej17_Boligrafo/Ej17_Boligrafo.csproj": {}
   },
   "projects": {
-    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj": {
+    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej17_Boligrafo/Ej17_Boligrafo/Ej17_Boligrafo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
-        "projectName": "EJ17_Boligrafo",
-        "projectPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
+        "projectUniqueName": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej17_Boligrafo/Ej17_Boligrafo/Ej17_Boligrafo.csproj",
+        "projectName": "Ej17_Boligrafo",
+        "projectPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej17_Boligrafo/Ej17_Boligrafo/Ej17_Boligrafo.csproj",
         "packagesPath": "/Users/Rus/.nuget/packages/",
-        "outputPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/obj/",
+        "outputPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej17_Boligrafo/Ej17_Boligrafo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Rus/.nuget/NuGet/NuGet.Config"
@@ -49,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "runtime.osx-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

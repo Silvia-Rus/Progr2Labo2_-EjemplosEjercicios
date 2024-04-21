@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PB2Elt7z7raRMaSWhkqYbCvxgsxdmQ87C5xN96iq8bNr5SL06R48SGbgqcHgU960rxNRelClURAUaNTgnzSgyQ==",
+  "dgSpecHash": "24jzgWOE7AusaVJognjQdJz9/XCsVuDiKc/sLN3RcajYxcKaxZpHgc0OmkFqKLv4s70/HqkUOiGGhw5HA0bCxg==",
   "success": true,
-  "projectFilePath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej17_Boligrafo/Ej17_Boligrafo/Ej17_Boligrafo.csproj",
+  "expectedPackageFiles": [
+    "/Users/Rus/.nuget/packages/runtime.osx-x64.microsoft.dotnet.ilcompiler/7.0.18/runtime.osx-x64.microsoft.dotnet.ilcompiler.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

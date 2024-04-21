@@ -1,0 +1,14 @@
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\bin\Debug\net8.0\Ej17_Boligrafo.exe
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\bin\Debug\net8.0\Ej17_Boligrafo.deps.json
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\bin\Debug\net8.0\Ej17_Boligrafo.runtimeconfig.json
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\bin\Debug\net8.0\Ej17_Boligrafo.dll
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\bin\Debug\net8.0\Ej17_Boligrafo.pdb
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.AssemblyInfoInputs.cache
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.AssemblyInfo.cs
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.csproj.CoreCompileInputs.cache
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.dll
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\refint\Ej17_Boligrafo.dll
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.pdb
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\Ej17_Boligrafo.genruntimeconfig.cache
+C:\Users\srusmata\Desktop\Lab2Progr2_ej\Ejercicios\Ej17_Boligrafo\Ej17_Boligrafo\obj\Debug\net8.0\ref\Ej17_Boligrafo.dll
