@@ -1,0 +1,15 @@
+/Users/Rus/Desktop/Biblioteca/Biblioteca/bin/Debug/net7.0/Biblioteca
+/Users/Rus/Desktop/Biblioteca/Biblioteca/bin/Debug/net7.0/Biblioteca.deps.json
+/Users/Rus/Desktop/Biblioteca/Biblioteca/bin/Debug/net7.0/Biblioteca.runtimeconfig.json
+/Users/Rus/Desktop/Biblioteca/Biblioteca/bin/Debug/net7.0/Biblioteca.dll
+/Users/Rus/Desktop/Biblioteca/Biblioteca/bin/Debug/net7.0/Biblioteca.pdb
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.AssemblyInfo.cs
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.dll
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/refint/Biblioteca.dll
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.pdb
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/Biblioteca.genruntimeconfig.cache
+/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/Debug/net7.0/ref/Biblioteca.dll
