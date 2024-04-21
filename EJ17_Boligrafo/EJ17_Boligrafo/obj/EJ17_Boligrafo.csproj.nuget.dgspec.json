@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj": {}
+    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj": {}
   },
   "projects": {
-    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj": {
+    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
+        "projectUniqueName": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
         "projectName": "EJ17_Boligrafo",
-        "projectPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
+        "projectPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/EJ17_Boligrafo.csproj",
         "packagesPath": "/Users/Rus/.nuget/packages/",
-        "outputPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/EJ17_Boligrafo/EJ17_Boligrafo/obj/",
+        "outputPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/EJ17_Boligrafo/EJ17_Boligrafo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Rus/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{ED0AA4CE-A439-4861-A756-A3C2ADD66D97}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EJ17_Boligrafo/Boligrafo.cs">
+    <Files>
+      <File FileName="EJ17_Boligrafo/Program.cs" Line="15" Column="55" />
+      <File FileName="EJ17_Boligrafo/Boligrafo.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EJ17_Boligrafo">
+            <Node name="EJ17_Boligrafo">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Boligrafo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EJ17__Boligrafo FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EJ17__Boligrafo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

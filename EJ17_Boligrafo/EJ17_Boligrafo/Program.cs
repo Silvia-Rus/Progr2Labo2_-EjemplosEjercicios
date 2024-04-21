@@ -12,7 +12,7 @@ namespace Ej17_Boligrafo
 
             String dibujoUno;
             boliUno.Pintar(9, out dibujoUno);
-            Console.WriteLine(dibujoUno); //MUESTRA 2
+            Console.WriteLine(dibujoUno); //MUESTRA **
             boliUno.Recargar();
             Console.WriteLine(boliUno.getTinta()); //MUESTRA 100
 
