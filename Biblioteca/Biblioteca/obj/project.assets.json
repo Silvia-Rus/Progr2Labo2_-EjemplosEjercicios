@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Rus/Desktop/Biblioteca/Biblioteca/Biblioteca.csproj",
+      "projectUniqueName": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Biblioteca/Biblioteca/Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "/Users/Rus/Desktop/Biblioteca/Biblioteca/Biblioteca.csproj",
+      "projectPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Biblioteca/Biblioteca/Biblioteca.csproj",
       "packagesPath": "/Users/Rus/.nuget/packages/",
-      "outputPath": "/Users/Rus/Desktop/Biblioteca/Biblioteca/obj/",
+      "outputPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Biblioteca/Biblioteca/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Rus/.nuget/NuGet/NuGet.Config"

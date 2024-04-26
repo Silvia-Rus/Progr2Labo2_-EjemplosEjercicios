@@ -1,129 +1,43 @@
 ﻿using System;
-using System.Drawing;
+using System.Text;
 
 namespace Biblioteca
 {
-    public class Libro
+	public class Libro : Obra //LIBRO DERIVA DE OBRA
 	{
+		int numeroPaginas;
 
-        string titulo;
-		string autor;
-		int anio;
-		int barcode;
-		bool prestado;
-		DateTime fechaPrestado;
-        DateTime fechaDevolucion;
+		//public Libro(string titulo, string autor, int anio) : base(titulo, autor, anio) { }
 
 
-        public Libro(string titulo, string autor, int anio)
+		public Libro(string titulo, string autor, int anio, int numeroPaginas)
+			: base(titulo, autor, anio)
 		{
-			this.titulo = titulo;
-			this.autor = autor;
-			this.anio = anio;
-			this.prestado = false;
-		}
 
-		public Libro(string titulo, string autor, int anio, int barcode)
-			: this(titulo, autor, anio)
-		{
-			this.barcode = barcode;
-        }
-
-		public string Titulo
-		{
-			get { return this.titulo; }
-
-			//get => this.titulo;
-			set => this.titulo = value;
-		}
-
-		public string Autor
-		{
-			get => this.autor;
-			set => this.autor = value;
-		}
-
-		//public Estado EstadoCirculacion
-		//{
-		//	set => this.estadoCirculacion = value;
-		//}
-
-        //propiedad para el anio
-
-
-
-        //propiedad para el barcode
-        public int Barcode
-        {
-            get => this.barcode;
-            set => this.barcode = value;
-        }
-
-        public bool Prestado
-		{
-			set
-			{
-				if(value == true)
-				{
-                    this.prestado = true;
-                    this.fechaPrestado = DateTime.Now;
-                }
-				else
-				{
-					this.prestado = false;
-                    this.fechaDevolucion = DateTime.Now;
-                }
-            }
-
-			get => this.prestado;
-		}
-
-		public DateTime FechaPrestamo
-		{
-			get => this.fechaPrestado;
-		}
-
-		//OPERADORES SOBERCARGADOS PORQUE LA IGUALDAD SI NO MIRA AL LUGAR EN LA MEMORIA
-		public static bool operator ==(Libro a, Libro b)
-		{
-			//EXPLICADO EN LARGO
-			//bool retorno = false;
-
-			//if (a.titulo == b.titulo && a.autor == b.autor)
-			//{
-
-			//	retorno = true;
-			//}
-			//return retorno;
-
-			//EXPLICADO EN CORTO
-			return a.titulo == b.titulo && a.autor == b.autor;
+			this.numeroPaginas = numeroPaginas;
 
 		}
 
-		public static bool operator !=(Libro a, Libro b)
+		public Libro(string titulo, string autor, int anio, int numeroPaginas, int barcode)
+			: this(titulo, autor, anio, numeroPaginas)
 		{
-
-			return !(a == b);
-
-			// return !(a.titulo == b.titulo && a.autor == b.autor);
-
+			this.Barcode = barcode;
 		}
 
-		public bool EsPrestable()
+		public int NumeroPaginas
 		{
-			bool retorno = false;
-			if(this.barcode > 0 && this.prestado == false)
-			{
-				retorno = true;
-			}
-
-			return retorno;
+			get => this.numeroPaginas;
 		}
 
+		public string Mostrar()
+		{
+            StringBuilder texto = new StringBuilder();
+			texto.Append(base.Mostrar());
+			texto.AppendLine($"Núm. Páginas: {this.NumeroPaginas}");
+			return texto.ToString();
+		}
 		
 
-
-	}
+    }
 }
 
