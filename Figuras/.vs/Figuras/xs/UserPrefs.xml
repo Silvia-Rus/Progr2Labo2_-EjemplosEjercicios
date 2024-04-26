@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{09572240-AD68-4933-B2B6-68EFF61C1395}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Figuras/Triangulo.cs">
+    <Files>
+      <File FileName="Figuras/Program.cs" Line="21" Column="1" />
+      <File FileName="Figuras/Triangulo.cs" Line="7" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Figuras" expanded="True">
+            <Node name="Figuras" expanded="True">
+              <Node name="Triangulo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Figuras PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

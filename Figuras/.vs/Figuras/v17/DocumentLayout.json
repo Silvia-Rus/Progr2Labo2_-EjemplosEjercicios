@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\figuras\\figuras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|solutionrelative:figuras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\figuras\\figuras\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|solutionrelative:figuras\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\figuras\\figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|solutionrelative:figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\figuras\\figuras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|solutionrelative:figuras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\figuras\\figuras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09572240-AD68-4933-B2B6-68EFF61C1395}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Figuras\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Cuadrado.cs",
+              "RelativeToolTip": "Figuras\\Cuadrado.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:48:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Figuras\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Triangulo.cs",
+              "RelativeToolTip": "Figuras\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:47:58.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figuras.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Figuras.cs",
+              "RelativeDocumentMoniker": "Figuras\\Figuras.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Figuras.cs",
+              "RelativeToolTip": "Figuras\\Figuras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:47:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Circulo.cs",
+              "RelativeDocumentMoniker": "Figuras\\Circulo.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Circulo.cs",
+              "RelativeToolTip": "Figuras\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:47:21.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Program.cs",
+              "RelativeDocumentMoniker": "Figuras\\Program.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Figuras\\Figuras\\Program.cs",
+              "RelativeToolTip": "Figuras\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:46:24.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
