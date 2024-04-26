@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\animales\\animales\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|solutionrelative:animales\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\animales\\animales\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|solutionrelative:animales\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\animales\\animales\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|solutionrelative:animales\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\animales\\animales\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|solutionrelative:animales\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|c:\\users\\srusmata\\desktop\\lab2progr2_ej\\ejercicios\\animales\\animales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE30171-61B8-4A34-AE1F-ABFC207D07A2}|Animales\\Animales.csproj|solutionrelative:animales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Animal.cs",
+              "RelativeDocumentMoniker": "Animales\\Animal.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Animal.cs",
+              "RelativeToolTip": "Animales\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:47:44.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pato.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Pato.cs",
+              "RelativeDocumentMoniker": "Animales\\Pato.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Pato.cs",
+              "RelativeToolTip": "Animales\\Pato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:47:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Perro.cs",
+              "RelativeDocumentMoniker": "Animales\\Perro.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Perro.cs",
+              "RelativeToolTip": "Animales\\Perro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:47:08.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Gato.cs",
+              "RelativeDocumentMoniker": "Animales\\Gato.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Gato.cs",
+              "RelativeToolTip": "Animales\\Gato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:46:53.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Program.cs",
+              "RelativeDocumentMoniker": "Animales\\Program.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Desktop\\Lab2Progr2_ej\\Ejercicios\\Animales\\Animales\\Program.cs",
+              "RelativeToolTip": "Animales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:43:52.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
