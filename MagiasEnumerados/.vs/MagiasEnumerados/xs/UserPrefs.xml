@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2086F333-0558-4961-9587-411B407FC292}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagiasEnumerados/Program.cs">
+    <Files>
+      <File FileName="MagiasEnumerados/Program.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagiasEnumerados" expanded="True">
+            <Node name="MagiasEnumerados">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MagiasEnumerados PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -8,6 +8,6 @@ namespace Figuras
 {
     internal abstract class Figuras
     {
-        
+     
     }
 }
