@@ -8,22 +8,14 @@
             Circulo circulo = new Circulo(10);
             Cuadrado cuadrado = new Cuadrado(5, 5);
 
-
-
-            
-
-
-
-            
-
-            //Console.WriteLine($"Área del triángulo: {triangulo.Area()}");
-            //Console.WriteLine($"Perímetro del tríángulo: {triangulo.Perimetro()}");
-
-            //Console.WriteLine($"Área del círculo: {circulo.Area()}");
-            //Console.WriteLine($"Perímetro del círculo: {circulo.Perimetro()}");
-
-            //Console.WriteLine($"Área del cuadrado: {cuadrado.Area()}");
-            //Console.WriteLine($"Perímetro del cuadrado: {cuadrado.Perimetro()}");
+            Console.WriteLine($"Área del triángulo: {triangulo.CalcularArea()}");
+            Console.WriteLine($"Perímetro del tríángulo: {triangulo.CalcularPerimetro()}");
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine($"Área del círculo: {circulo.CalcularArea()}");
+            Console.WriteLine($"Perímetro del círculo: {circulo.CalcularPerimetro()}");
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine($"Área del cuadrado: {cuadrado.CalcularArea()}");
+            Console.WriteLine($"Perímetro del cuadrado: {cuadrado.CalcularPerimetro()}");
 
             Console.ReadKey();
 

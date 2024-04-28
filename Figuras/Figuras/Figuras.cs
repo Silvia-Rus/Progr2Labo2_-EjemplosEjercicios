@@ -22,8 +22,7 @@ namespace Figuras
             set => this.altura = value;
         }
 
-        protected abstract float CalcularArea();
-
+        public abstract float CalcularArea();
         public abstract float CalcularPerimetro();
 
     }

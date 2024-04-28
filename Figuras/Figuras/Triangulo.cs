@@ -8,9 +8,10 @@ namespace Figuras
 {
     internal class Triangulo : Figuras
     {
+        //Se asume que es un triángulo isósceles
+
         float baseTriangulo;
         float ladoTriangulo;
-
 
         public Triangulo(float baseTriangulo, float ladoTriangulo, float alturaTriangulo)
             : base(alturaTriangulo)
@@ -37,7 +38,6 @@ namespace Figuras
             get => this.Altura;
         }
 
-
         //El área de un triángulo es igual a base por altura partido por 2.
         public override float CalcularArea()
         {
@@ -47,7 +47,7 @@ namespace Figuras
         // El perímetro de un triángulo es igual a la suma de sus tres lados.
         public override float CalcularPerimetro()
         {
-            return 
+            return this.ladoTriangulo * 2 + this.baseTriangulo; 
         }
 
 

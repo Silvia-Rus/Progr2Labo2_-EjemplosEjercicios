@@ -8,7 +8,7 @@ namespace Figuras
 {
     internal class Cuadrado : Figuras   
     {
-       
+        //Se asume que se puede introducir un rectángulo
         float ladoA;
 
         public Cuadrado(float ladoA, float ladoB) : base(ladoB)
@@ -28,14 +28,13 @@ namespace Figuras
             set => this.Altura = value;
         }
 
-        // Área del cuadrado = lado × lad
-        protected override float CalcularArea()
+        // Área del cuadrado = lado × lado
+        public override float CalcularArea()
         {
             return this.ladoA * this.LadoB;
         }
 
         // Perímetro = suma la longitud de cada uno de sus cuatro lados
-
         public override float CalcularPerimetro()
         {
             return (this.ladoA * 2) + (this.LadoB * 2);
