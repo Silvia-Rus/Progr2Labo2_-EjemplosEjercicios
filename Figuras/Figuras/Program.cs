@@ -8,7 +8,13 @@
             Circulo circulo = new Circulo(10);
             Cuadrado cuadrado = new Cuadrado(5, 5);
 
-            A
+
+
+            
+
+
+
+            
 
             //Console.WriteLine($"Área del triángulo: {triangulo.Area()}");
             //Console.WriteLine($"Perímetro del tríángulo: {triangulo.Perimetro()}");

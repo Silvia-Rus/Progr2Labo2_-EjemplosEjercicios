@@ -106,7 +106,6 @@ namespace Biblioteca
 		{
 
 			return !(a == b);
-
 			// return !(a.titulo == b.titulo && a.autor == b.autor);
 
 		}
@@ -118,22 +117,29 @@ namespace Biblioteca
 			{
 				retorno = true;
 			}
-
 			return retorno;
 		}
 
-		public string Mostrar()
+		public override string ToString()
 		{
 			StringBuilder retorno = new StringBuilder();
 			retorno.AppendLine($"Título: {this.titulo}.");
-            retorno.AppendLine($"Autor: {this.autor}.");
+			retorno.AppendLine($"Autor: {this.autor}.");
 			return retorno.ToString();
-
 		}
 
-		
+		//Destrabado pr Rodrigo :) sl. z
 
+		public override bool Equals(object? obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+            {
+                return false;
+            }
+            Obra obraAComprar = (Obra)obj;
+            return this.autor == obraAComprar.autor && this.titulo == obraAComprar.titulo;
+        }
 
-	}
+    }
 }
 

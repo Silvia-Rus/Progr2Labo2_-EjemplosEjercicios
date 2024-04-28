@@ -16,10 +16,10 @@ namespace Biblioteca
 		}
 
 
-        public string Mostrar()
+        public override string ToString()
         {
             StringBuilder texto = new StringBuilder();
-            texto.Append(base.Mostrar());
+            texto.Append(base.ToString());
             texto.AppendLine($"Núm. Volúmenes: {this.numeroVolumenes}");
             return texto.ToString();
         }

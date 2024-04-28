@@ -10,13 +10,10 @@ namespace Figuras
     {
        
         float ladoA;
-        float ladoB;
 
-        public Cuadrado(float ladoA, float ladoB) 
+        public Cuadrado(float ladoA, float ladoB) : base(ladoB)
         {
             this.ladoA = ladoA;
-            this.ladoB = ladoB;
-
         }
 
         public float LadoA 
@@ -27,15 +24,22 @@ namespace Figuras
 
         public float LadoB
         {
-            get => this.ladoB;
-            set => this.ladoB = value;
-
+            get => this.Altura;
+            set => this.Altura = value;
         }
-        
-        // Área del cuadrado = lado × lado
-       
+
+        // Área del cuadrado = lado × lad
+        protected override float CalcularArea()
+        {
+            return this.ladoA * this.LadoB;
+        }
 
         // Perímetro = suma la longitud de cada uno de sus cuatro lados
-       
+
+        public override float CalcularPerimetro()
+        {
+            return (this.ladoA * 2) + (this.LadoB * 2);
+        }
+
     }
 }

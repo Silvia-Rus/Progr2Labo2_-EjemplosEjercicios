@@ -1,0 +1,15 @@
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/bin/Debug/net7.0/Ej38_Sobrescrito
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/bin/Debug/net7.0/Ej38_Sobrescrito.deps.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/bin/Debug/net7.0/Ej38_Sobrescrito.runtimeconfig.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/bin/Debug/net7.0/Ej38_Sobrescrito.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/bin/Debug/net7.0/Ej38_Sobrescrito.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.AssemblyInfo.cs
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/refint/Ej38_Sobrescrito.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/Ej38_Sobrescrito.genruntimeconfig.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Ej38_Sobrescrito/Ej38_Sobrescrito/obj/Debug/net7.0/ref/Ej38_Sobrescrito.dll

@@ -29,15 +29,15 @@ namespace Biblioteca
 			get => this.numeroPaginas;
 		}
 
-		public string Mostrar()
+		public override string ToString()
 		{
-            StringBuilder texto = new StringBuilder();
-			texto.Append(base.Mostrar());
+			StringBuilder texto = new StringBuilder();
+			texto.Append(base.ToString());
 			texto.AppendLine($"Núm. Páginas: {this.NumeroPaginas}");
 			return texto.ToString();
 		}
-		
 
-    }
+
+	}
 }
 

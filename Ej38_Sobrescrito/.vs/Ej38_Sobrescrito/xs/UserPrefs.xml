@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{95E4FFC9-EF54-48D6-8AFC-B2B677FD8040}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ej38__Sobrescrito PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ej38_Sobrescrito/Sobrescrito.cs">
+    <Files>
+      <File FileName="Ej38_Sobrescrito/Sobrescrito.cs" Line="5" Column="6" />
+      <File FileName="Ej38_Sobrescrito/Program.cs" Line="7" Column="25" />
+      <File FileName="Ej38_Sobrescrito/SobreSobrescrito.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ej38_Sobrescrito" expanded="True">
+            <Node name="Ej38_Sobrescrito" expanded="True">
+              <Node name="Sobrescrito.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

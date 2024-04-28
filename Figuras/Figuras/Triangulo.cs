@@ -10,13 +10,13 @@ namespace Figuras
     {
         float baseTriangulo;
         float ladoTriangulo;
-        float alturaTriangulo;
 
 
-        public Triangulo(float baseTriangulo, float ladoTriangulo, float alturaTriangulo)   
+        public Triangulo(float baseTriangulo, float ladoTriangulo, float alturaTriangulo)
+            : base(alturaTriangulo)
         {
             this.baseTriangulo = baseTriangulo;
-            this.ladoTriangulo = alturaTriangulo;
+            this.ladoTriangulo = ladoTriangulo;
         }
 
         public float BaseTriangulo
@@ -25,23 +25,31 @@ namespace Figuras
            get => this.baseTriangulo;
         }
 
-        public float AlturaTriangulo 
-        {
-            set => this.alturaTriangulo = value;
-            get => this.alturaTriangulo;
-        }
-
         public float LadoTriangulo
         {
             set => this.ladoTriangulo = value;
             get => this.ladoTriangulo;
         }
 
+        public float AlturaTriangulo 
+        {
+            set => this.Altura = value;
+            get => this.Altura;
+        }
+
+
         //El área de un triángulo es igual a base por altura partido por 2.
-        
-        
+        public override float CalcularArea()
+        {
+            return (this.baseTriangulo * this.AlturaTriangulo) / 2;
+        }
+
         // El perímetro de un triángulo es igual a la suma de sus tres lados.
-        
+        public override float CalcularPerimetro()
+        {
+            return 
+        }
+
 
     }
 }

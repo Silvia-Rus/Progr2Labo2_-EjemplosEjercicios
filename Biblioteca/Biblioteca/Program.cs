@@ -10,7 +10,7 @@ class Program
 
         Console.Title = "Biblioteca";
 
-        Obra obraUno = new Obra("RayuelaBCBCBB<B", "Cortázar, Julio", 1997, 1111);
+        Obra obraUno = new Obra("El Aleph", "Borges, Jorge Luis", 1997, 1111);
         Obra libroDos = new Obra("El Aleph", "Borges, Jorge Luis", 1997, 2222);
         Obra libroTres = new Obra("Yerma", "García Lorca, Federico", 2000, 3333);
         Obra libroCuatro = new Obra("El Túnel", "Sábato, Ernesto", 2000, 5555);
@@ -19,8 +19,12 @@ class Program
         Enciclopedia enciclopedia = new Enciclopedia("Larousse", "VVAA", 2000, 1000, 10);
         VHS vhs = new VHS("Dumbo", "Disney", 1985, 90);
 
+       
+        bool retornoEquals = obraUno.Equals(libroDos);
+        Console.WriteLine(retornoEquals);
 
-        Console.WriteLine(enciclopedia.Mostrar());
+
+        //Console.WriteLine(enciclopedia.ToString());
         //Console.WriteLine(obraUno.Titulo);
 
         //Obra --> Libro --> Enciclopedia

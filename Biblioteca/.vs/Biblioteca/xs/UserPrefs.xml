@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{2DDCFB1C-6667-4B87-A080-7D09B9817AC7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/Libro.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/Obra.cs">
     <Files>
-      <File FileName="Biblioteca/Program.cs" Line="9" Column="6" />
+      <File FileName="Biblioteca/Program.cs" Line="6" Column="14" />
       <File FileName="Biblioteca/Usuario.cs" />
-      <File FileName="Biblioteca/Circulacion.cs" Line="15" Column="29" />
-      <File FileName="Biblioteca/Obra.cs" Line="5" Column="21" />
+      <File FileName="Biblioteca/Circulacion.cs" />
       <File FileName="Biblioteca/Enciclopedia.cs" />
-      <File FileName="Biblioteca/Libro.cs" Line="4" Column="21" />
+      <File FileName="Biblioteca/Libro.cs" />
+      <File FileName="Biblioteca/Obra.cs" Line="146" Column="1" />
       <File FileName="Biblioteca/VHS.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Biblioteca" expanded="True">
-            <Node name="Biblioteca" expanded="True">
-              <Node name="Libro.cs" selected="True" />
+            <Node name="Biblioteca">
+              <Node name="Obra.cs" selected="True" />
             </Node>
           </Node>
         </State>
