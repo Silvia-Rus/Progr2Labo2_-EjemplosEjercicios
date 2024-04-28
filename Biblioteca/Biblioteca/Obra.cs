@@ -6,7 +6,6 @@ namespace Biblioteca
 {
     public class Obra
 	{
-
         protected string titulo;
 		string autor;
 		int anio;
@@ -14,7 +13,6 @@ namespace Biblioteca
 		bool prestado;
 		DateTime fechaPrestado;
         DateTime fechaDevolucion;
-
 
         public Obra(string titulo, string autor, int anio)
 		{
@@ -33,7 +31,6 @@ namespace Biblioteca
 		public string Titulo
 		{
 			get { return this.titulo; }
-
 			//get => this.titulo;
 			set => this.titulo = value;
 		}
@@ -44,14 +41,12 @@ namespace Biblioteca
 			set => this.autor = value;
 		}
 
-		//public Estado EstadoCirculacion
-		//{
-		//	set => this.estadoCirculacion = value;
-		//}
-
         //propiedad para el anio
-
-
+        public int Anio
+        {
+            get => this.anio;
+            set => this.anio = value;
+        }
 
         //propiedad para el barcode
         public int Barcode
@@ -99,15 +94,12 @@ namespace Biblioteca
 
 			//EXPLICADO EN CORTO
 			return a.titulo == b.titulo && a.autor == b.autor;
-
 		}
 
 		public static bool operator !=(Obra a, Obra b)
 		{
-
 			return !(a == b);
 			// return !(a.titulo == b.titulo && a.autor == b.autor);
-
 		}
 
 		public bool EsPrestable()
@@ -125,11 +117,11 @@ namespace Biblioteca
 			StringBuilder retorno = new StringBuilder();
 			retorno.AppendLine($"Título: {this.titulo}.");
 			retorno.AppendLine($"Autor: {this.autor}.");
-			return retorno.ToString();
+			retorno.AppendLine($"Año: {this.anio}.");
+            return retorno.ToString();
 		}
 
-		//Destrabado pr Rodrigo :) sl. z
-
+		//Destrabado por Rodrigo :)
 		public override bool Equals(object? obj)
         {
             if (obj == null || GetType() != obj.GetType())

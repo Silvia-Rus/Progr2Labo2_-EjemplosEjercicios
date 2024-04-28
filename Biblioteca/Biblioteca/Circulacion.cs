@@ -3,20 +3,6 @@ namespace Biblioteca
 {
 	public static class Circulacion
 	{
-	
-		//public static bool Prestar(Libro libro, Usuario usuario)
-		//{
-		//	bool retorno = false;
-
-		//	/
-		//	if (usuario.AddLibroPrestado(libro.Barcode) && libro.EsPrestable())
-		//	{		
-		//		libro.Prestado = true;
-	    //      retorno = true;
-		//	}
-		//	return retorno;
-		//}
-
         public static bool Prestar(Obra libro, Usuario usuario)
         {
             bool retorno = false;
@@ -29,8 +15,6 @@ namespace Biblioteca
             }
             return retorno;
         }
-
-
     }
 }
 

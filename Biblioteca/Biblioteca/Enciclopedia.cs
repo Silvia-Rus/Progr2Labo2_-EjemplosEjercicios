@@ -15,7 +15,6 @@ namespace Biblioteca
 
 		}
 
-
         public override string ToString()
         {
             StringBuilder texto = new StringBuilder();
