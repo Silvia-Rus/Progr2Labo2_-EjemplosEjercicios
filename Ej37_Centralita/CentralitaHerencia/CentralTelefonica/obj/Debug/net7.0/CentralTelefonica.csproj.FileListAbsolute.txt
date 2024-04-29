@@ -1,0 +1,12 @@
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/bin/Debug/net7.0/CentralTelefonica.deps.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/bin/Debug/net7.0/CentralTelefonica.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/bin/Debug/net7.0/CentralTelefonica.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.AssemblyInfo.cs
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/refint/CentralTelefonica.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/CentralTelefonica.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/CentralitaHerencia/CentralTelefonica/obj/Debug/net7.0/ref/CentralTelefonica.dll

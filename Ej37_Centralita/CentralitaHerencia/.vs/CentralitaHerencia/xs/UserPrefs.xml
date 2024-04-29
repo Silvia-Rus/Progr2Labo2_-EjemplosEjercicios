@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{71DB76A8-379A-4B21-BD7C-046D0B7AEDB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CentralTelefonica/Local.cs">
+    <Files>
+      <File FileName="CentralTelefonica/Class1.cs" Line="48" Column="61" />
+      <File FileName="CentralTelefonica/Centralita.cs" Line="81" Column="18" />
+      <File FileName="Test/Program.cs" Line="25" Column="28" />
+      <File FileName="CentralTelefonica/Local.cs" Line="15" Column="43" />
+      <File FileName="CentralTelefonica/Provincial.cs" Line="53" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CentralitaHerencia" expanded="True">
+            <Node name="CentralTelefonica">
+              <Node name="Local.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
