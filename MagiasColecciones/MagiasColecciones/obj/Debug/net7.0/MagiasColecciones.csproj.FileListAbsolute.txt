@@ -1,0 +1,15 @@
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/bin/Debug/net7.0/MagiasColecciones
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/bin/Debug/net7.0/MagiasColecciones.deps.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/bin/Debug/net7.0/MagiasColecciones.runtimeconfig.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/bin/Debug/net7.0/MagiasColecciones.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/bin/Debug/net7.0/MagiasColecciones.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.AssemblyInfo.cs
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/refint/MagiasColecciones.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/MagiasColecciones.genruntimeconfig.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasColecciones/MagiasColecciones/obj/Debug/net7.0/ref/MagiasColecciones.dll
