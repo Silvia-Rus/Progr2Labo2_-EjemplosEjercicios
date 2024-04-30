@@ -1,0 +1,15 @@
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/bin/Debug/net7.0/MagiasDiccionarios
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/bin/Debug/net7.0/MagiasDiccionarios.deps.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/bin/Debug/net7.0/MagiasDiccionarios.runtimeconfig.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/bin/Debug/net7.0/MagiasDiccionarios.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/bin/Debug/net7.0/MagiasDiccionarios.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.AssemblyInfo.cs
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/refint/MagiasDiccionarios.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/MagiasDiccionarios.genruntimeconfig.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/MagiasDiccionarios/MagiasDiccionarios/obj/Debug/net7.0/ref/MagiasDiccionarios.dll
