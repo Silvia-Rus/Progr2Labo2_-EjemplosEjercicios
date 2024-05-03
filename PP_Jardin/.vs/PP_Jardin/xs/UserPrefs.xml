@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AE6E519E-2A49-4166-9AB6-8EC22ECDFC8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Consola/Program.cs">
+    <Files>
+      <File FileName="PP_Jardin/Class1.cs" Line="16" Column="24" />
+      <File FileName="PP_Jardin/Planta.cs" Line="10" Column="23" />
+      <File FileName="PP_Jardin/Arbusto.cs" Line="13" Column="26" />
+      <File FileName="PP_Jardin/Banano.cs" Line="14" Column="10" />
+      <File FileName="PP_Jardin/Rosal.cs" Line="14" Column="8" />
+      <File FileName="Consola/Program.cs" Line="13" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PP_Jardin" expanded="True">
+            <Node name="PP_Jardin" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Consola PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
