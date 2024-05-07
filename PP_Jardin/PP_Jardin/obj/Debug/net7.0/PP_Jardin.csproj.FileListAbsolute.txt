@@ -1,0 +1,12 @@
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/bin/Debug/net7.0/PP_Jardin.deps.json
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/bin/Debug/net7.0/PP_Jardin.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/bin/Debug/net7.0/PP_Jardin.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.AssemblyInfo.cs
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/refint/PP_Jardin.dll
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/PP_Jardin.pdb
+/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/PP_Jardin/PP_Jardin/obj/Debug/net7.0/ref/PP_Jardin.dll

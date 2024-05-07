@@ -3,7 +3,6 @@ namespace PP_Jardin
 {
 	public class Arbusto : Planta
 	{
-
 		public Arbusto(string nombre, int tamanio) : base(nombre, tamanio)
 		{
 
@@ -18,8 +17,6 @@ namespace PP_Jardin
 		{
             get => false;
         }
-           
-
     }
 }
 
