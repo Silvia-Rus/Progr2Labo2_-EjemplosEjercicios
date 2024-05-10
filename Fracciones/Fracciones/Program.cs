@@ -8,11 +8,22 @@ class Program
 
         Console.Title = "Fracciones";
 
-        Console.WriteLine("SUMA");
+        //Console.WriteLine("SUMA");
+        //Fraccion fraccionUno = new Fraccion(1, 5);
+        //Fraccion fraccionDos = new Fraccion(2, 3);
+        //Fraccion resultado = fraccionUno + fraccionDos;
+        //Console.WriteLine(resultado.num + "/" + resultado.den);
+
+        try
+        {
+            Fraccion fraccionTres = new Fraccion(2, 0);
+        }
+        catch(DenominadorCeroException e)
+        {
+            Console.WriteLine($"ERROR construyendo la fracción 3: {e.Message}. Producido en: {e.NombreMetodo}.");
+        }
+
         Fraccion fraccionUno = new Fraccion(1, 5);
-        Fraccion fraccionDos = new Fraccion(2, 3);
-        Fraccion resultado = fraccionUno + fraccionDos;
-        Console.WriteLine(resultado.num + "/" + resultado.den);
 
         //Console.WriteLine("MULTIPLICACIÓN");
         //Fraccion fraccionUno = new Fraccion(7, 8);

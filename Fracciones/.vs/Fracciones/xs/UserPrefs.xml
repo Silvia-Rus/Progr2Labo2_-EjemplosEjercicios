@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{6A745F4B-E4DE-46B2-8730-26838968B813}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Fracciones/Fracciones/Program.cs" relfile="Fracciones/Program.cs" line="19" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Fracciones PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Fracciones/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fracciones/Fraccion.cs">
     <Files>
-      <File FileName="Fracciones/Fraccion.cs" Line="21" Column="10" />
-      <File FileName="Fracciones/Program.cs" Line="4" Column="14" />
+      <File FileName="Fracciones/Fraccion.cs" Line="10" Column="1" />
+      <File FileName="Fracciones/Program.cs" Line="14" Column="43" />
+      <File FileName="Fracciones/DenominadorCeroException.cs" Line="17" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Fracciones">
+          <Node name="Fracciones" expanded="True">
             <Node name="Fracciones">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Fraccion.cs" selected="True" />
             </Node>
           </Node>
         </State>

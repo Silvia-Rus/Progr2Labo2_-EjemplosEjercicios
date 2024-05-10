@@ -34,7 +34,9 @@ namespace Ej36_Carreras
 
         public static bool operator ==(MotoCross m1, MotoCross m2)
         {
-            return m1.Numero == m2.Numero && m1.Escuderia == m2.Escuderia && m1.cilindrada == m2.cilindrada;
+            return m1.Numero == m2.Numero
+                && m1.Escuderia == m2.Escuderia
+                && m1.cilindrada == m2.cilindrada;
         }
 
         public static bool operator !=(MotoCross m1, MotoCross m2)

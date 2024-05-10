@@ -1,5 +1,30 @@
 ﻿<Properties StartupConfiguration="{6FC43520-E57E-4A6F-9326-EB713C846CF7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Ej36__Carreras FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ej36_Carreras/Competencia.cs">
+    <Files>
+      <File FileName="Ej36_Carreras/AutoF1.cs" Line="17" Column="45" />
+      <File FileName="Ej36_Carreras/MotoCross.cs" Line="38" Column="48" />
+      <File FileName="Ej36_Carreras/Competencia.cs" Line="105" Column="1" />
+      <File FileName="Test/Program.cs" Line="10" Column="46" />
+      <File FileName="Ej36_Carreras/CompetenciaNoDisponibleException.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ej36_Carreras" expanded="True">
+            <Node name="Ej36_Carreras">
+              <Node name="Competencia.cs" selected="True" />
+            </Node>
+            <Node name="Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Rus/Desktop/Ej/LaboII_Ej/C4/Fracciones/Fracciones/Fracciones.csproj": {}
+    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Fracciones/Fracciones/Fracciones.csproj": {}
   },
   "projects": {
-    "/Users/Rus/Desktop/Ej/LaboII_Ej/C4/Fracciones/Fracciones/Fracciones.csproj": {
+    "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Fracciones/Fracciones/Fracciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Rus/Desktop/Ej/LaboII_Ej/C4/Fracciones/Fracciones/Fracciones.csproj",
+        "projectUniqueName": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Fracciones/Fracciones/Fracciones.csproj",
         "projectName": "Fracciones",
-        "projectPath": "/Users/Rus/Desktop/Ej/LaboII_Ej/C4/Fracciones/Fracciones/Fracciones.csproj",
+        "projectPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Fracciones/Fracciones/Fracciones.csproj",
         "packagesPath": "/Users/Rus/.nuget/packages/",
-        "outputPath": "/Users/Rus/Desktop/Ej/LaboII_Ej/C4/Fracciones/Fracciones/obj/",
+        "outputPath": "/Users/Rus/Desktop/Progr2Lab2_PUBLICO/Progr2Labo2_EjemplosEjercicios/Fracciones/Fracciones/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Rus/.nuget/NuGet/NuGet.Config"

@@ -13,12 +13,18 @@ namespace Fracciones
 
             if (den == 0)
             {
-                throw new ArgumentException("BOOOM EL DENOMINADOR NO PUEDE SER CERO!!!");
-            }
+                throw new DenominadorCeroException("El denominador no puede ser cero", "constructor de la fracción",
+                                                        new DivideByZeroException("La fracción en el fondo es una división",
+                                                            new ArgumentException("El denominador que entra por parámetro es 0")));
 
+                //throw new DivideByZeroException("El denominador no puede ser cerooooo");
+                //throw new ArgumentException("BOOOM EL DENOMINADOR NO PUEDE SER CERO!!!");
+            }
             this.num = num;
             this.den = den;
         }
+
+
         public static Fraccion operator +(Fraccion a, Fraccion b)
         {
             int num = (a.num * b.den) + (a.den * b.num);

@@ -43,7 +43,7 @@ namespace Ej36_Carreras
         public string MostrarDatos()
         {
             string texto = "";
-
+            //falta
 
             return texto;
         }
@@ -54,33 +54,55 @@ namespace Ej36_Carreras
 
         public static bool operator ==(Competencia c, VehiculoDeCarrera v1)
         {
-            bool retorno = false;
-        
-            foreach(VehiculoDeCarrera v in c.competidores)
+            bool retorno = true;
+            TipoCompetencia tipoDelVehiculo = v1 is AutoF1 ? TipoCompetencia.F1 : TipoCompetencia.MotoCross;
+            if (c.Tipo == tipoDelVehiculo)
             {
-                if((v1 is AutoF1    && (AutoF1)v1    == (AutoF1)v) ||
-                    (v1 is MotoCross && (MotoCross)v1 == (MotoCross)v))
+                if (c.competidores.Count() == 0)
                 {
-                    retorno = true;
-                    break;
+                    retorno = false;
+                }
+                else
+                {
+                    foreach (VehiculoDeCarrera v in c.competidores)
+                    {
+                        if ((v1 is AutoF1 && (AutoF1)v1       == (AutoF1)v) ||
+                            (v1 is MotoCross && (MotoCross)v1 == (MotoCross)v))
+                        {
+                            retorno = true;
+                        }
+                    }
                 }
             }
-            
-            return retorno; 
+            else
+            {
+                throw new CompetenciaNoDisponibleException("El vehiculo no corresponde a la competencia", "Competencia.cs", "Validación ==");
+            }
+            return retorno;
         }
 
         public static bool operator +(Competencia c, VehiculoDeCarrera v1)
         {
             bool retorno = false;
-            TipoCompetencia tipoDelVehiculo = v1 is AutoF1 ? TipoCompetencia.F1 : TipoCompetencia.MotoCross;
-            if (c.competidores.Count() < c.cantidadCompetidores && c != v1 && tipoDelVehiculo == c.tipo)
+            
+            if (c.competidores.Count() < c.cantidadCompetidores)
             {
-                v1.EnCompetencia = true;
-                v1.VueltasRestantes = c.cantidadVueltas;
-                Random rndm = new Random();
-                v1.CantidadCombustible = (short)rndm.Next(15, 100);
-                c.competidores.Add(v1);
-                retorno = true;
+                try
+                {
+                    if (c != v1)
+                    {
+                        v1.EnCompetencia = true;
+                        v1.VueltasRestantes = c.cantidadVueltas;
+                        Random rndm = new Random();
+                        v1.CantidadCombustible = (short)rndm.Next(15, 100);
+                        c.competidores.Add(v1);
+                        retorno = true;
+                    }
+                }
+                catch (CompetenciaNoDisponibleException ce)
+                {
+                    throw new CompetenciaNoDisponibleException("Competencia incorrecta", "Competencia.cs", "sobrecarga +", ce);
+                }  
             }
             return retorno;
         }
@@ -88,7 +110,7 @@ namespace Ej36_Carreras
         public static bool operator -(Competencia c, VehiculoDeCarrera a1)
         {
             bool retorno = false;
-
+            //falta
             return retorno;
         }
     }

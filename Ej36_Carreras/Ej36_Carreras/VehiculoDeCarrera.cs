@@ -52,7 +52,7 @@ public class VehiculoDeCarrera
     public virtual string MostrarDatos()
     {
         StringBuilder text = new StringBuilder();
-        text.AppendLine("AUTO:");
+        text.AppendLine("VEHÍCULO:");
         text.AppendLine($"Número: {this.numero}");
         text.AppendLine($"Escudería: {this.escuderia}");
         return text.ToString();
