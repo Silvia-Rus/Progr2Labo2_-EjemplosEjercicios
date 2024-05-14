@@ -64,12 +64,7 @@ namespace CentralTelefonica
 
         public override bool Equals(object? obj)
         {
-            bool retorno = false;
-            if (obj != null && this.GetType() != obj.GetType())
-            {
-                retorno = true;
-            }
-            return retorno;
+			return obj != null && obj is Provincial;
         }
 
         public override string ToString()

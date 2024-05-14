@@ -100,7 +100,7 @@ namespace CentralTelefonica
             bool retorno = false;
             foreach(Llamada item in c.listaDeLlamadas)
             {
-                if(item == llamada)
+                if(llamada.Equals(item))
                 {
                     retorno = true;
                     break;
