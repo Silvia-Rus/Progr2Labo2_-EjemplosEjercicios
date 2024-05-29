@@ -1,29 +1,30 @@
 ﻿<Properties StartupConfiguration="{6FC43520-E57E-4A6F-9326-EB713C846CF7}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ej36_Carreras/Competencia.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
     <Files>
-      <File FileName="Ej36_Carreras/AutoF1.cs" Line="36" Column="44" />
-      <File FileName="Ej36_Carreras/MotoCross.cs" Line="37" Column="30" />
-      <File FileName="Ej36_Carreras/Competencia.cs" Line="10" Column="46" />
-      <File FileName="Test/Program.cs" Line="11" Column="46" />
-      <File FileName="Ej36_Carreras/CompetenciaNoDisponibleException.cs" Line="40" Column="6" />
-      <File FileName="Ej36_Carreras/VehiculoDeCarrera.cs" Line="55" Column="38" />
+      <File FileName="Ej36_Carreras/AutoF1.cs" />
+      <File FileName="Ej36_Carreras/MotoCross.cs" />
+      <File FileName="Ej36_Carreras/Competencia.cs" Line="99" Column="15" />
+      <File FileName="Test/Program.cs" Line="30" Column="24" />
+      <File FileName="Ej36_Carreras/CompetenciaNoDisponibleException.cs" Line="15" Column="35" />
+      <File FileName="Ej36_Carreras/VehiculoDeCarrera.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Ej36_Carreras">
-            <Node name="Ej36_Carreras" expanded="True" />
-            <Node name="Test" expanded="True" />
+          <Node name="Ej36_Carreras" expanded="True">
+            <Node name="Test">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

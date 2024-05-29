@@ -15,12 +15,15 @@ class Program
 
         Competencia c = new Competencia(3, 4, Competencia.TipoCompetencia.F1);
 
-        string strA1 =
-            c + a1 ?
-                a1.MostrarDatos()
-                :
-                "ERRORRR!\n" + a1.MostrarDatos();
-        Console.WriteLine(strA1);
+        try
+        {
+            bool pudo = c + a1;
+        }
+        catch(CompetenciaNoDisponibleException e)
+        {
+            Console.WriteLine(e.ToString());
+        }
+        
         string strA2 = c + a2 ? a2.MostrarDatos() : "ERRORRR!\n" + a2.MostrarDatos();
         Console.WriteLine(strA2);
         string strA3 = c + a3 ? a3.MostrarDatos() : "ERRORRR!\n" + a3.MostrarDatos();

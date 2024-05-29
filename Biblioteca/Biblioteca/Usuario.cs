@@ -4,18 +4,31 @@ namespace Biblioteca
 	public class Usuario
 	{
 		string dni;
+		string nombre; 
 		public int[] barcodeObraPrestada;
 		const int maxObrasPrestadas = 3;
 
-		public Usuario(string dni)
+		public Usuario(string dni, string nombre)
 		{
 			this.dni = dni;
+			this.nombre = nombre;
 			this.barcodeObraPrestada = new int[3];
 			this.InitObraPrestadas();
 
 		}
 
-		private void InitObraPrestadas()
+		public string Nombre
+		{
+			get => this.nombre;
+		}
+
+        public string DNI
+        {
+            get => this.dni;
+        }
+
+
+        private void InitObraPrestadas()
 		{
 			for(int i = 0; i < this.barcodeObraPrestada.Length ; i++)
 			{

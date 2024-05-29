@@ -26,7 +26,7 @@ namespace Ej36_Carreras
 		}
 
         public CompetenciaNoDisponibleException(string mensaje, string clase, string metodo)
-          : this(mensaje, clase, metodo, null) { }
+          : this(mensaje, clase, metodo, new Exception()) { }
 
 
         public override string ToString()

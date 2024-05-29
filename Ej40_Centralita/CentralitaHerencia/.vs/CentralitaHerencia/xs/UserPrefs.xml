@@ -1,23 +1,22 @@
 ﻿<Properties StartupConfiguration="{71DB76A8-379A-4B21-BD7C-046D0B7AEDB5}|Default">
-  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
     <Files>
-      <File FileName="CentralTelefonica/Centralita.cs" Line="75" Column="18" />
-      <File FileName="Test/Program.cs" Line="22" Column="43" />
-      <File FileName="CentralTelefonica/Local.cs" Line="52" Column="35" />
-      <File FileName="CentralTelefonica/Provincial.cs" Line="71" Column="14" />
-      <File FileName="CentralTelefonica/Llamada.cs" Line="47" Column="22" />
+      <File FileName="CentralTelefonica/Centralita.cs" Line="105" Column="36" />
+      <File FileName="Test/Program.cs" Line="26" Column="41" />
+      <File FileName="CentralTelefonica/Local.cs" Line="13" Column="4" />
+      <File FileName="CentralTelefonica/Provincial.cs" Line="19" Column="32" />
+      <File FileName="CentralTelefonica/Llamada.cs" Line="32" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CentralitaHerencia" expanded="True">
+          <Node name="CentralitaHerencia">
             <Node name="Test">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -26,4 +25,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
 </Properties>

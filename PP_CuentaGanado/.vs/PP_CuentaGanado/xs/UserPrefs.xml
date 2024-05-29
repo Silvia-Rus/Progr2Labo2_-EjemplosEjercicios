@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BF441768-66EF-4C53-AF22-1F932D3FAD2A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
+    <Files>
+      <File FileName="PP_CuentaGanado/Class1.cs" Line="29" Column="34" />
+      <File FileName="Test/Program.cs" Line="7" Column="6" />
+      <File FileName="PP_CuentaGanado/Gente.cs" Line="15" Column="35" />
+      <File FileName="PP_CuentaGanado/Empleado.cs" Line="31" Column="10" />
+      <File FileName="PP_CuentaGanado/Bar.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PP_CuentaGanado" expanded="True">
+            <Node name="Test">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
