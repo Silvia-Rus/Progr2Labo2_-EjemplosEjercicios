@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F7790FBD-AF73-41FD-827C-764C707430E1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
+    <Files>
+      <File FileName="Clases/Documento.cs" />
+      <File FileName="Clases/Escaner.cs" />
+      <File FileName="Clases/Informes.cs" Line="10" Column="6" />
+      <File FileName="Clases/Libro.cs" />
+      <File FileName="Test/Program.cs" Line="36" Column="1" />
+      <File FileName="Clases/Mapa.cs" Line="45" Column="1" />
+      <File FileName="Clases/TipoIncorrectoException.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PP_Escaner" expanded="True">
+            <Node name="Test">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

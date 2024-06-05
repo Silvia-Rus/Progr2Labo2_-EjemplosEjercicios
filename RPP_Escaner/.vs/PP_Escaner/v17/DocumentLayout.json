@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7790FBD-AF73-41FD-827C-764C707430E1}|Test\\Test.csproj|c:\\users\\srusmata\\downloads\\laboii_ej-master\\laboii_ej-master\\pp_escaner\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7790FBD-AF73-41FD-827C-764C707430E1}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|c:\\users\\srusmata\\downloads\\laboii_ej-master\\laboii_ej-master\\pp_escaner\\clases\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|solutionrelative:clases\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|c:\\users\\srusmata\\downloads\\laboii_ej-master\\laboii_ej-master\\pp_escaner\\clases\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|solutionrelative:clases\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|c:\\users\\srusmata\\downloads\\laboii_ej-master\\laboii_ej-master\\pp_escaner\\clases\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|solutionrelative:clases\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|c:\\users\\srusmata\\downloads\\laboii_ej-master\\laboii_ej-master\\pp_escaner\\clases\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|solutionrelative:clases\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|c:\\users\\srusmata\\downloads\\laboii_ej-master\\laboii_ej-master\\pp_escaner\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2893FE89-45A8-48F6-B6B1-CE7C0825FA97}|Clases\\Clases.csproj|solutionrelative:clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAgwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:59:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Informes.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Informes.cs",
+              "RelativeDocumentMoniker": "Clases\\Informes.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Informes.cs",
+              "RelativeToolTip": "Clases\\Informes.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:25:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Mapa.cs",
+              "RelativeDocumentMoniker": "Clases\\Mapa.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Mapa.cs",
+              "RelativeToolTip": "Clases\\Mapa.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:09:01.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Libro.cs",
+              "RelativeDocumentMoniker": "Clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Libro.cs",
+              "RelativeToolTip": "Clases\\Libro.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:07:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Escaner.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Escaner.cs",
+              "RelativeDocumentMoniker": "Clases\\Escaner.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Escaner.cs",
+              "RelativeToolTip": "Clases\\Escaner.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAD4vyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:07:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Documento.cs",
+              "RelativeDocumentMoniker": "Clases\\Documento.cs",
+              "ToolTip": "C:\\Users\\srusmata\\Downloads\\LaboII_Ej-master\\LaboII_Ej-master\\PP_Escaner\\Clases\\Documento.cs",
+              "RelativeToolTip": "Clases\\Documento.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:07:24.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

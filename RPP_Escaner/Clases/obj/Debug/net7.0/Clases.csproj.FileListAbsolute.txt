@@ -1,0 +1,47 @@
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/bin/Debug/net7.0/Clases.deps.json
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/bin/Debug/net7.0/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/bin/Debug/net7.0/Clases.pdb
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.csproj.AssemblyReference.cache
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.AssemblyInfoInputs.cache
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.AssemblyInfo.cs
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.csproj.CoreCompileInputs.cache
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/refint/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/Clases.pdb
+/Users/Rus/Downloads/PP_Escaner (1)/Clases/obj/Debug/net7.0/ref/Clases.dll
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/bin/Debug/net7.0/Clases.deps.json
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/bin/Debug/net7.0/Clases.dll
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/bin/Debug/net7.0/Clases.pdb
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/Clases.AssemblyInfoInputs.cache
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/Clases.AssemblyInfo.cs
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/Clases.csproj.CoreCompileInputs.cache
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/Clases.dll
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/refint/Clases.dll
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/Clases.pdb
+C:/Users/srusmata/Downloads/LaboII_Ej-master/LaboII_Ej-master/PP_Escaner/Clases/obj/Debug/net7.0/ref/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/bin/Debug/net7.0/Clases.deps.json
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/bin/Debug/net7.0/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/bin/Debug/net7.0/Clases.pdb
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.csproj.AssemblyReference.cache
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.AssemblyInfoInputs.cache
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.AssemblyInfo.cs
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.csproj.CoreCompileInputs.cache
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/refint/Clases.dll
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/Clases.pdb
+/Users/Rus/Downloads/PP_Escaner (2)/Clases/obj/Debug/net7.0/ref/Clases.dll
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/bin/Debug/net7.0/Clases.deps.json
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/bin/Debug/net7.0/Clases.dll
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/bin/Debug/net7.0/Clases.pdb
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.csproj.AssemblyReference.cache
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.AssemblyInfoInputs.cache
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.AssemblyInfo.cs
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.csproj.CoreCompileInputs.cache
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.dll
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/refint/Clases.dll
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/Clases.pdb
+/Users/Rus/Desktop/Ej/LaboII_Ej/RPP_Escaner/Clases/obj/Debug/net7.0/ref/Clases.dll
